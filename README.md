@@ -1,0 +1,2 @@
+# MineCraft_Chinesization
+我的世界汉化文件词条筛选
